@@ -37,7 +37,7 @@ Definir los conceptos generales de la teoría de fasores que permitan tener un a
 
 **2.-MARCO TEÓRICO**
 
-![d1](https://user-images.githubusercontent.com/75336529/133204611-d360ca55-ece3-45e3-a8c5-e3c76015aa59.png)
+![d1](https://user-images.githubusercontent.com/75336529/133256810-ff9beedc-a8ad-4498-b545-d02943b220a0.jpeg)
 
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
