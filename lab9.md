@@ -84,19 +84,19 @@ Realizacion de ejercicios 3.2.3
 
 Realizacion de ejercicios en calculadoras
 
-**3.2.1**
+**Ejercicios 3.2.1**
 
 ![c1](https://user-images.githubusercontent.com/75336529/133194367-ad792eb7-29c4-4722-9e6d-8a943c9d44e3.png)
 
 ![c2](https://user-images.githubusercontent.com/75336529/133194314-85dd89ad-e00f-44e3-beac-8ef4ee60bd13.png)
 
-**3.2.2**
+**Ejercicios 3.2.2**
 
 ![c3](https://user-images.githubusercontent.com/75336529/133194322-3da23da2-7f44-4765-ab93-d160632ab85d.png)
 
 ![c4](https://user-images.githubusercontent.com/75336529/133194326-680d769c-2e9d-4e9e-93ae-aeffc04a9016.png)
 
-**3.2.3**
+**Ejercicios 3.2.3**
 
 ![c5](https://user-images.githubusercontent.com/75336529/133194334-641c8728-bc94-4bb7-afa3-fbe8947b2def.png)
 
@@ -119,6 +119,8 @@ Se concluye que al trabajar con fasores y realizar operaciones de division o mul
 Al momento de pasar de forma polar a forma rectangular toca tener encuenta que para la parte real del numero se usa la funcion coseno y para la parte imaginaria del numero se usa la funcion seno.
 
 Al momento de pasar de forma rectangular a forma polar se debe tener encuanta los sigonos de cada numero para aplicar la funcion arcotangente la cual nos daria el angulo del fasor mientras que el modulo se sacaria con la raiz cuadrada de la suma de los cuadrados de los numeros quedandonos siempre un valor positivo.
+
+Comprobando los resultados obtenidos meditante una calculadora y lo realizado manualmente se obserbo que es lo mismo no hubo diferencia alguna por que se uso la misma cantidad de decimales.
 
 **7.-BIBLIOGRAFIA**
 
