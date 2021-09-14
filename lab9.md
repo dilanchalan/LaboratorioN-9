@@ -28,6 +28,7 @@ Ing. Darwin Alulema
 General
 
 Realizar e Investigar conceptos básicos sobre el tema de fasores, asi mismo operaciones aritméticas que permitan resolver problemas expuestos
+
 Específicos
 
 Identificar la forma mas eficiente y rapida de hacer las diferentes operaciones con numero complejos.
@@ -36,7 +37,7 @@ Definir los conceptos generales de la teoría de fasores que permitan tener un a
 
 **2.-MARCO TEÓRICO**
 
-
+![d1](https://user-images.githubusercontent.com/75336529/133204611-d360ca55-ece3-45e3-a8c5-e3c76015aa59.png)
 
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
