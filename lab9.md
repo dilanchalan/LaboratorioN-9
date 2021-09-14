@@ -27,7 +27,12 @@ Ing. Darwin Alulema
 
 General
 
+Realizar e Investigar conceptos básicos sobre el tema de fasores, asi mismo operaciones aritméticas que permitan resolver problemas expuestos
 Específicos
+
+Identificar la forma mas eficiente y rapida de hacer las diferentes operaciones con numero complejos.
+
+Definir los conceptos generales de la teoría de fasores que permitan tener un análisis correcto de los circuitos.
 
 **2.-MARCO TEÓRICO**
 
@@ -61,6 +66,8 @@ forma rectangular como en su forma polar.
 **4.1.-Calculos:
 
 Realizacion de ejercicios 3.2.1
+
+![11](https://user-images.githubusercontent.com/75336529/133183794-aa3ef0ba-31ff-442d-8d0b-9d83aaeb831c.jpg)
 
 Realizacion de ejercicios 3.2.2
 
